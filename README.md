@@ -14,9 +14,10 @@ MM88MMM  88,dPPYba,   ,adPPYba,  MM88MMM  8b       d8  88   ,adPPYba,
 fbstyle-cpp
 ===========
 
-fbstyle-cpp is a fluxbox theme where the colors are easy to
+fbstyle-cpp is a fluxbox style (theme) where the colors are easy to
 replace by editing the `settings` file. Then run `make` to
-build the theme along with the pixmaps.
+build the theme along with the pixmaps. The C preprocessor is
+utilized to get the ability to use variables.
 
 ![fbstyle-cpp](screenshot.jpg)
 
