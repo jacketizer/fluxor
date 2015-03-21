@@ -1,4 +1,3 @@
-
 ```
    ad88  88                                            88
   d8"    88                        ,d                  88
@@ -18,6 +17,8 @@ fbstyle-cpp
 fbstyle-cpp is a fluxbox theme where the colors are easy to
 replace by editing the `settings` file. Then run `make` to
 build the theme along with the pixmaps.
+
+![fbstyle-cpp](screenshot.jpg)
 
 Install
 -------
