@@ -1,0 +1,14 @@
+/*
+ * Helper functions for generating XPM header
+ *
+ * Copyrigt 2015 Jack Engqvist Johansson
+ *
+ */
+
+#define STRINGIZE2(s) #s
+#define STRINGIZE(s) STRINGIZE2(s)
+
+#define XPM_HEADER STRINGIZE(WIN_TITLE_HEIGHT WIN_TITLE_HEIGHT N_COLORS 1)
+#define XPM_COLOR_BG STRINGIZE(.	c  WIN_BG)
+#define XPM_COLOR_FG STRINGIZE(+	c  TEXT_NORMAL)
+#define XPM_COLOR_FG_HIGH STRINGIZE(+	c  TEXT_ACTIVE)

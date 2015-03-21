@@ -1,0 +1,33 @@
+/*
+ * FLUXBOX STYLE SETTINGS
+ *
+ * Copyrigt 2015 Jack Engqvist Johansson
+ *
+ */
+#define STYLE_NAME		BlackGreen
+#define STYLE_AUTHOR		Jack Engqvist Johansson
+
+/* backgrounds and borders */
+#define WIN_BG			#222225
+
+/* text colors */
+#define TEXT_NORMAL		#707070
+#define TEXT_ACTIVE		#C0C0C0
+#define TEXT_DISABLED		#AAAAAA
+#define TEXT_TITLE		#A5AF86
+
+/*
+ * toolbar height
+ * (needs to be an even number)
+ */
+#define TOOLBAR_HEIGHT		18
+
+/* WARNING! BELOW VALUES ARE NOT EDITABLE YET */
+/* WARNING! BELOW VALUES ARE NOT EDITABLE YET */
+/* WARNING! BELOW VALUES ARE NOT EDITABLE YET */
+
+/*
+ * window title height
+ * (needs to be an even number)
+ */
+#define WIN_TITLE_HEIGHT	18
