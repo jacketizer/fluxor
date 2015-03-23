@@ -14,7 +14,7 @@
  *  JACK ENGQVIST JOHANSSON
  */
 
-#define STYLE_NAME		BlackGreen
+#define STYLE_NAME		Fluxor
 #define STYLE_AUTHOR		Jack Engqvist Johansson
 
 /* backgrounds and borders */

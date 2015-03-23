@@ -1,38 +1,40 @@
 ```
-   ad88  88                                            88
-  d8"    88                        ,d                  88
-  88     88                        88                  88
-MM88MMM  88,dPPYba,   ,adPPYba,  MM88MMM  8b       d8  88   ,adPPYba,
-  88     88P'    "8a  I8[    ""    88     `8b     d8'  88  a8P_____88
-  88     88       d8   `"Y8ba,     88      `8b   d8'   88  8PP"""""""
-  88     88b,   ,a8"  aa    ]8I    88,      `8b,d8'    88  "8b,   ,aa
-  88     8Y"Ybbd8"'   `"YbbdP"'    "Y888      Y88'     88   `"Ybbd8"'
-                                              d8'
- A clean and customizable fluxbox theme.     d8'
+   .o88o. oooo                                             
+   888 `" `888                                             
+  o888oo   888  oooo  oooo  oooo    ooo  .ooooo.  oooo d8b 
+   888     888  `888  `888   `88b..8P'  d88' `88b `888""8P 
+   888     888   888   888     Y888'    888   888  888     
+   888     888   888   888   .o8"'88b   888   888  888     
+  o888o   o888o  `V88V"V8P' o88'   888o `Y8bod8P' d888b    
+
 ```
 
-fbstyle-cpp
-===========
+Fluxor
+======
 
-fbstyle-cpp is a fluxbox style (theme) where the colors are easy to
-replace by editing the `settings` file. Then run `make` to
-build the theme along with the pixmaps. The C preprocessor is
-utilized to get the ability to use variables.
+Fluxor is a fluxbox style (theme) where the colors are easely replaced by
+editing the `settings` file. Then run `make` to build the theme along with the
+pixmaps. The C preprocessor is utilized to get the ability to use variables.
 
-![fbstyle-cpp](screenshot.jpg)
+![fluxbox style](screenshot.jpg)
 
 Install
 -------
 
 ```
 $ cd ~/.fluxbox/styles
-$ git clone https://github.com/jacketizer/fbstyle-cpp.git
+$ git clone https://github.com/jacketizer/fluxor.git
 ```
 
-Build
------
+Customize
+---------
+
+Change the colors by editing the `settings` file. Then build the theme as shown
+below:
 
 ```
-$ cd ~/.fluxbox/styles/fbstyle-cpp
+$ cd ~/.fluxbox/styles/fluxor
 $ make
 ```
+
+Restart fluxbox to reload the theme.
