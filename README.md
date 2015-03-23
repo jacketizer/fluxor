@@ -15,7 +15,7 @@ Fluxor is a fluxbox style (theme) where the colors are easely replaced by
 editing the `settings` file. Then run `make` to build the theme along with the
 pixmaps. The C preprocessor is utilized to get the ability to use variables.
 
-![fluxbox style](screenshot.jpg)
+![fluxbox style](preview.jpg)
 
 Install
 -------
